@@ -2,6 +2,15 @@
 # 김동훈(Kim Dong Hun)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitDongHun&show_icons=true&theme=radical)
 
+# 기술 스택
+- C
+- C++
+- Java
+- Python
+- HTML
+- CSS
+- JavaScript
+
 <!--
 **GitDongHun/GitDongHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
