@@ -11,7 +11,7 @@
 - CSS
 - JavaScript
 
-![header](https://capsule-rdner.vercel.app/api?type=wave&color=auto&height=300&section=header&test=업적&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&test=업적&fontSize=90)
 <!--
 **GitDongHun/GitDongHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
