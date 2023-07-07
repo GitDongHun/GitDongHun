@@ -1,15 +1,13 @@
 ### Hi there 👋
 # 김동훈(Kim Dong Hun)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitDongHun&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitDongHun&layout=compact&theme=radical)](https://github.com/GitDongHun/githubreadme-stats)
 
 # 기술 스택
-- C
-- C++
+- C/C++
 - Java
 - Python
-- HTML
-- CSS
-- JavaScript
+- HTML/CSS/JavaScript
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=업적&fontSize=90)
 <!--
