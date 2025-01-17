@@ -4,14 +4,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitDongHun&layout=compact&theme=radical)](https://github.com/GitDongHun/githubreadme-stats)
 
 # MY Career
-저는 백엔드/서버 개발, 웹 개발, Git, GitHub, Java, SQL, MySQL, Spring Boot, Thymeleaf, MyBatis, Node.js, JavaScript 등 다양한 기술을 접해보고 있는 신입 개발자입니다. 이러한 기술들을 활용하여 다양한 프로젝트를 진행하려 노력하며, 항상 새로운 기술을 배우는 데에 큰 즐거움을 느낍니다.
+저는 백엔드/서버 개발, 웹 개발, Git, GitHub, Java, SQL, MySQL, Spring Boot, Thymeleaf, MyBatis, Node.js, JavaScript 등 다양한 기술을 접해보고 있는 신입 개발자입니다. 이러한 기술들을 활용하여 다양한 프로젝트를 진행하려 노력하며, 항상 새로운 기술을 배우는 데에 큰 즐거움을 느낍니다!!
 
 # 기술 스택
-- C/C++
-- Java
-- Python
-- HTML/CSS/JavaScript
-- SQL
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
@@ -32,7 +27,7 @@
 - 서버사이드 컴포넌트 구현 및 개발
 - Github, IT 포트폴리오
 - Java프로그래밍, SQL튜닝, ChatBot
-- 최종 프로젝트
+- 최종 프로젝트 - 먹스플로어
 
 <!--
 **GitDongHun/GitDongHun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
