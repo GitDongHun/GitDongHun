@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20There!&fontSize=90)
 # 김동훈(Kim Dong Hun)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitDongHun&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GitDongHun&layout=compact&theme=radical)](https://github.com/GitDongHun/githubreadme-stats)
 
 # MY Career
